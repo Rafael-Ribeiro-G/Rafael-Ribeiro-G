@@ -41,6 +41,20 @@
 ## Certificações
 <div>
 <a href="https://www.credly.com/badges/1a2dfc16-e5d1-491c-9066-f62aaad641be/public_url" target="blank">
-  <img width="15%" height="15%" src="https://images.credly.com/size/340x340/images/1a2dfc16-e5d1-491c-9066-f62aaad641be.png" />
+  <img width="15%" height="15%" src="https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" />
     </a>
 </div>
+
+## Estatísticas GitHub
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats-psi-smoky-68.vercel.app/api?username=Rafael-Ribeiro-G&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />&nbsp;&nbsp;
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rafael-Ribeiro-G&theme=radical&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+
+</div>
+
+## Projetos em Destaque
+
+[![interfaceAndroid](https://github-readme-stats-psi-smoky-68.vercel.app/api/pin/?username=Rafael-Ribeiro-G&repo=InterfaceAndroid&theme=radical&hide_border=true)]((https://github.com/Rafael-Ribeiro-G/InterfaceAndroid))
