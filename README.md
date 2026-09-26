@@ -57,5 +57,19 @@
 
 ## Projetos em Destaque
 
-[![interfaceAndroid](https://github-readme-stats-psi-smoky-68.vercel.app/api/pin/?username=Rafael-Ribeiro-G&repo=InterfaceAndroid&theme=radical&hide_border=true)]((https://github.com/Rafael-Ribeiro-G/InterfaceAndroid))
+<div align="center">
+  <a href="https://github.com/Rafael-Ribeiro-G/InterfaceAndroid" target="_blank">
+    <img src="https://github-readme-stats-psi-smoky-68.vercel.app/api/pin/?username=Rafael-Ribeiro-G&repo=InterfaceAndroid&theme=radical&hide_border=true" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Rafael-Ribeiro-G/AplicacaoWeb" target="_blank">
+    <img src="https://github-readme-stats-psi-smoky-68.vercel.app/api/pin/?username=Rafael-Ribeiro-G&repo=AplicacaoWeb&theme=radical&hide_border=true&v=2" />
+  </a>
+</div>
 
+<!-- Contribuições -->
+## Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rafael-Ribeiro-G/Rafael-Ribeiro-G/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
