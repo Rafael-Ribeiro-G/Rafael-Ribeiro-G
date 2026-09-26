@@ -58,4 +58,4 @@
 ## Projetos em Destaque
 
 [![interfaceAndroid](https://github-readme-stats-psi-smoky-68.vercel.app/api/pin/?username=Rafael-Ribeiro-G&repo=InterfaceAndroid&theme=radical&hide_border=true)]((https://github.com/Rafael-Ribeiro-G/InterfaceAndroid))
-[![AplicacaoWeb](https://github-readme-stats-psi-smoky-68.vercel.app/api/pin/?username=Rafael-Ribeiro-G&repo=AplicacaoWeb&theme=radical&hide_border=true)]((https://github.com/Rafael-Ribeiro-G/AplicacaoWeb))
+
