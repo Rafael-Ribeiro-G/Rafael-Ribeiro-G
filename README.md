@@ -71,5 +71,5 @@
 ## Contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rafael-Ribeiro-G/Rafael-Ribeiro-G/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Rafael-Ribeiro-G/Rafael-Ribeiro-G/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
