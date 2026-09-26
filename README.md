@@ -37,3 +37,10 @@
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
 </div>
+
+## Certificações
+<div>
+<a href="https://www.credly.com/badges/1a2dfc16-e5d1-491c-9066-f62aaad641be/public_url" target="blank">
+  <img width="15%" height="15%" src="https://images.credly.com/size/340x340/images/1a2dfc16-e5d1-491c-9066-f62aaad641be.png" />
+    </a>
+</div>
