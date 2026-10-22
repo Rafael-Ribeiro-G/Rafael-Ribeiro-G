@@ -62,7 +62,7 @@
     <img src="https://github-readme-stats-psi-smoky-68.vercel.app/api/pin/?username=Rafael-Ribeiro-G&repo=InterfaceAndroid&theme=radical&hide_border=true" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Rafael-Ribeiro-G/AplicacoesWeb" target="_blank">
+  <a href="https://github.com/Rafael-Ribeiro-G/aplicacoesWeb" target="_blank">
     <img src="https://github-readme-stats-psi-smoky-68.vercel.app/api/pin/?username=Rafael-Ribeiro-G&repo=AplicacaoWeb&theme=radical&hide_border=true&v=2" />
   </a>
 </div>
