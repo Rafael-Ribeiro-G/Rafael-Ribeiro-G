@@ -39,9 +39,12 @@
 </div>
 
 ## Certificações
-<div>
+<div align="left">
 <a href="https://www.credly.com/badges/1a2dfc16-e5d1-491c-9066-f62aaad641be/public_url" target="blank">
   <img width="15%" height="15%" src="https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" />
+    </a>
+<a href="https://www.credly.com/badges/98005ab4-55a7-404a-b44b-a6c5d064c3bb/public_url" target="blank">
+  <img width="15%" height="15%" src="https://images.credly.com/size/340x340/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png" />
     </a>
 </div>
 
